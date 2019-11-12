@@ -33,5 +33,3 @@ int fsalinidad() {
   salinidad = 100*SalMin/(SalMin-SalMax)-adc1*100/(SalMin-SalMax); //operación para calcular la salinidad
   return salinidad;
 }
-
-//-----FUNCIÓN HUMEDAD-------------------------------------------//
