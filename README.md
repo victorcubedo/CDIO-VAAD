@@ -15,6 +15,9 @@ La carpeta "VAAD_V1.1.ino" incluye :
 La carpeta "VAAD_V1.2" incluye :
   - "Temperatura_V1.0.ino" programa del sensor de temperatura.
   - "VAAD_V1.2.ino" programa que incluye el de salinidad, humedad y temperatura.
+  - El diseño de este circuito es "Esquemático y Diseño VAAD_V1.3.fzz" que se encuentra en la carpeta "VAAD_V1.3".
 
 La carpeta "VAAD_V1.3" incluye :
-  - "VAAD_V1.3.ino" en esta versión se ha mejorado la medida de humedad. El conexionado es igual al archivo "". 
+  - "VAAD_V1.3.ino" en esta versión se ha mejorado la medida de humedad. 
+  - "Esquemático y Diseño VAAD_V1.3.fzz" diseño y esquemático del sensor de humedad,salinidad y temperatura.
+  
