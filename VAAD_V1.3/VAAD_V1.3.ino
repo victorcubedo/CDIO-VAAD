@@ -70,7 +70,7 @@ if (humedad<0)   // Si el valor de humedad que nos da es menor a 0 muestra 0 % p
   
     delay(3000);
 
-  fgfg}
+  }
   else if (humedad>100) // Si el valor de humedad que nos da es mayor a 100 muestra 100% por pantalla
   {
     Serial.print("AIN0: ");
