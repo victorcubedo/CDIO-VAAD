@@ -17,4 +17,4 @@ La carpeta "VAAD_V1.2" incluye :
   - "VAAD_V1.2.ino" programa que incluye el de salinidad, humedad y temperatura.
 
 La carpeta "VAAD_V1.3" incluye :
-  - "VAAD_V1.3.ino" en esta versión se ha mejorado la medida de humedad. El conexionado es igual al archivo "".
+  - "VAAD_V1.3.ino" en esta versión se ha mejorado la medida de humedad. El conexionado es igual al archivo "". 
