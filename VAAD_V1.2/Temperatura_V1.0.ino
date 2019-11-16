@@ -3,8 +3,6 @@
 
 Adafruit_ADS1115 ads1115(0x48); //construct an ads1115 at address 0x48
 
-
-
 void setup () {
   ads1115.begin();  //Encendemos el ADS
   ads1115.setGain(GAIN_ONE);  //Ajustamos la ganancia a 1
