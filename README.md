@@ -16,11 +16,13 @@ La carpeta "VAAD_V1.2" incluye :
   - "Temperatura_V1.0.ino" programa del sensor de temperatura.
   - "Esquemático y Diseño Temperatura.fzz" diseño y esquemático del sensor de temperatura.
   - "VAAD_V1.2.ino" programa que incluye el de salinidad, humedad y temperatura.
-  - El diseño de este programa es "Esquemático y Diseño VAAD_V1.3.fzz" que se encuentra en la carpeta "VAAD_V1.3".
-  - - "VAAD_V1.2.5_DeepSleep.ino" incluye la función DeepSleep.
+  - El diseño de este programa es "Esquemático y Diseño VAAD_V1.3.fzz" que se encuentra en la carpeta "VAAD_V1.3"
 
 La carpeta "VAAD_V1.3" incluye :
   - "VAAD_V1.3.ino" en esta versión se ha mejorado la medida de humedad. 
   - "Esquemático y Diseño VAAD_V1.3.fzz" diseño y esquemático del sensor de humedad,salinidad y temperatura.
-  - "VAAD_V1.3.5_DeepSleep.ino" incluye la función DeepSleep.
+ 
+ La carpeta "VAAD_V1.4_DeepSleep" incluye : 
+  - "VAAD_V1.4_DeepSleep" en esta versión esta incluida la función deepsleep.
+  - El circuito es el mismo que "Esquemático y Diseño VAAD_V1.3.fzz".
   
